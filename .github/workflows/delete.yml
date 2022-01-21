@@ -15,4 +15,4 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           unalias rm
-          rm -rf sramireddygari.github.io
+          rm -rf ~/../pub/sramireddygari.github.io
