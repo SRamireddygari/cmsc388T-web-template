@@ -15,6 +15,6 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
         script: |
-          cd sramireddygari.github.io
+          cd ~/../pub/sramireddygari.github.io
           git pull
           \cp -f -r ./* ../../pub/
