@@ -5,3 +5,5 @@ Website Template for Project 3
 TerpConnect Link: https://terpconnect.umd.edu/~sramired/sramireddygari.github.io/
 
 Github Pages Link: https://sramireddygari.github.io/
+
+Custom Change: Added link and image to my instagram
