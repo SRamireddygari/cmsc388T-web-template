@@ -16,3 +16,5 @@ jobs:
         script: |
           unalias rm
           rm -rf sramireddygari.github.io
+          cd ~/../pub
+          rm -rf sramireddygari.github.io
